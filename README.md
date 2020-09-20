@@ -1,1 +1,1 @@
- https://your-github-account.github.io/rsschool-cv/cv
+ https://nkhdrmv.github.io/rsschool-cv/cv
